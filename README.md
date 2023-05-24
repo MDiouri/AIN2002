@@ -11,7 +11,30 @@ The goal is to predict stroke events given clinical features.
 
 The datasets used in this project are publicly available from <a href='https://www.kaggle.com/'>Kaggle.com</a>
 
-## ✓ ML Code Completeness Checklist
+<ol>
+ <li><a href="https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset">Real-world data: The Stroke Prediction Dataset</a></li>
+ <li><a href="https://www.kaggle.com/competitions/playground-series-s3e2/data">Synthetic data: The Synthetic Stroke Prediction Dataset</a></li>
+</ol>
+
+The clinical features in datasets are the following:
+<ul>
+  <li>id: unique identifier</li>
+  <li>gender: "Male", "Female" or "Other"</li>
+  <li>age: age of the patient</li>
+  <li>hypertension: 0 if the patient doesn’t have hypertension, 1 if the patient has hypertension</li>
+  <li>heart_disease: 0 if the patient doesn’t have any heart diseases, 1 if the patient has a heart disease</li>
+  <li>ever_married: "No" or "Yes"</li>
+  <li>work_type: "children", "Govt_jov", "Never_worked", "Private" or "Self-employed"</li>
+  <li>Residence_type: "Rural" or "Urban"</li>
+  <li>avg_glucose_level: average glucose level in blood</li>
+  <li>bmi: body mass index</li>
+  <li>smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"</li>
+  <li>stroke: 1 if the patient had a stroke or 0 if not</li>
+</ul>
+
+The training set will include both the real-world data and the synthetic data, while the test set will consist solely of the synthetic data. It should be noted that the labels for the test set are not disclosed, and thus the true outcomes of the synthetic data will not be available for evaluation. To assess the performance of the model on the test set, predictions will be submitted to the Kaggle competition from which the synthetic data was obtained. The competition will provide scores based on accuracy or other evaluation metrics, enabling a comparison of the model's performance with that of other participants.
+
+## 
 
 We compiled this checklist by looking at what's common to the most popular ML research repositories. In addition, we prioritized items that facilitate reproducibility and make it easier for others build upon research code.
 
