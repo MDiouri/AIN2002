@@ -1,6 +1,6 @@
 # AIN2002 Term Project
 
-<img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Logo_of_Bah%C3%A7e%C5%9Fehir_University.jpg" width=200>
+<img src="https://cdn.bau.edu.tr/index/bau-OpenGraph.jpg" width=200>
 
 **💡 Collated best practices from most popular ML research repositories - *now official guidelines at NeurIPS 2021!*** 
 
