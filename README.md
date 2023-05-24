@@ -1,6 +1,6 @@
 # AIN2002 Term Project
 
-<img src="[https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Logo_for_Conference_on_Neural_Information_Processing_Systems.svg/1200px-Logo_for_Conference_on_Neural_Information_Processing_Systems.svg.png](https://upload.wikimedia.org/wikipedia/tr/thumb/d/d8/Bah%C3%A7e%C5%9Fehir_%C3%9Cniversitesi_logo.png/210px-Bah%C3%A7e%C5%9Fehir_%C3%9Cniversitesi_logo.png)" width=200>
+<img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Logo_of_Bah%C3%A7e%C5%9Fehir_University.jpg" width=200>
 
 **💡 Collated best practices from most popular ML research repositories - *now official guidelines at NeurIPS 2021!*** 
 
