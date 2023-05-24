@@ -1,16 +1,15 @@
 # AIN2002 Term Project
 
-<img src="https://cdn.bau.edu.tr/index/bau-OpenGraph.jpg" width=500 style='margin: auto;'>
+<img src="https://cdn.bau.edu.tr/index/bau-OpenGraph.jpg" width=500>
 
-**💡 Collated best practices from most popular ML research repositories - *now official guidelines at NeurIPS 2021!*** 
+## Introduction
 
-Based on analysis of more than 200 Machine Learning repositories, these recommendations facilitate reproducibility and correlate with GitHub stars - for more details, see our [our blog post](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501). 
+A stroke, also known as a brain attack, occurs when a blood vessel in the brain is blocked or ruptured. This leads to damage or death of certain parts of the brain, resulting in potential long-term brain impairment, disability, or even death. Stroke ranks as the second most common cause of death worldwide. Factors such as metabolic risks (e.g., high blood pressure, high body-mass index, or elevated cholesterol levels) and behavioral factors (such as smoking, poor diet, and lack of physical activity) can increase the risk of experiencing a stroke.
 
-For NeurIPS 2021 code submissions it is recommended (but not mandatory) to use the [README.md template](templates/README.md) and check as many items on the ML Code Completeness Checklist (described below) as possible. 
+The goal is to predict stroke events given clinical features.
+## Datasets
 
-## 📋 README.md template
-
-We provide a [README.md template](templates/README.md) that you can use for releasing ML research repositories. The sections in the template were derived by looking at existing repositories, seeing which had the best reception in the community, and then looking at common components that correlate with popularity.
+The datasets used in this project are publicly available from <a href='https://www.kaggle.com/'>Kaggle.com</a>
 
 ## ✓ ML Code Completeness Checklist
 
