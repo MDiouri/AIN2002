@@ -1,6 +1,6 @@
 # AIN2002 Term Project
 
-<img src="https://cdn.bau.edu.tr/index/bau-OpenGraph.jpg" width=500>
+<img src="https://cdn.bau.edu.tr/index/bau-OpenGraph.jpg" width=500 style='margin: auto;'>
 
 **💡 Collated best practices from most popular ML research repositories - *now official guidelines at NeurIPS 2021!*** 
 
