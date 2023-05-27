@@ -61,6 +61,6 @@ By submitting the results to kaggle, the predictions got a score of 90% accuracy
 
 <ul>
  <li>Mohammed Diouri</li>
- <li>Atena Jaafari Parsa</li>
+ <li>Atena Jafari Parsa</li>
  <li>Ava Arabi</li>
 </ul>
